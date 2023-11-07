@@ -1,0 +1,95 @@
+
+table td, table th{
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background: #e7e5ec
+}
+tr:nth-child(odd) {
+    background: #ffffff
+}
+
+
+table td, table th{
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: right;
+}
+
+table{
+    width: 60%;
+    height: 125px;
+}
+
+
+tr:nth-child(even) {
+    background: #aaaaaa
+}
+tr:nth-child(odd) {
+    background: #FFF
+}
+
+.corRosa{
+    background-color: rgb(170, 170, 170);
+}
+
+table td, table th{
+    border: 1px solid #c9c3c3;
+    padding: 5px;
+    text-align: left;
+
+}
+
+.vermelho1{
+    font-size: 25px;
+    background-color: #d18080;
+    color: aliceblue;
+    text-align: center;
+}
+
+.vermelho2{
+    font-size: 25px;
+    background-color: #c44a50;
+    color: aliceblue;
+    text-align: center;
+}
+
+.vermelho3{
+    font-size: 25px;
+    background-color: #801e1e;
+    color: aliceblue;
+    text-align: center;
+}
+
+table td, table th{
+    border: 1px solid #e31010;
+    padding: 5px;
+    text-align: left;
+
+}
+
+.centralizar{
+    text-align: center;
+}
+.corCinza{
+background-color: #c3c9c4;
+}
+
+.centralizado{
+    background-color: #c9c3c3;
+}
+
+.valor{
+    font-size: 32px;
+    text-align: center;
+}
+
+.botao{
+    font-size: 20px;
+    background-color: #e81313;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
